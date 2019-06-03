@@ -1,0 +1,31 @@
+Question 1:
+In an email, 5 features are extracted. Let n=20 data are observed from this email. 
+(a) What is your proposed model of data? (Hint: you are allowed to choose freely parameters of the model so that the conditions of the proposed model met.)
+(b) What is the probability that we observe 2, 1, 0, 0, 17 data respectively from feature one to five?
+(c) What is the probability that we observe at most 4 data from the last feature?
+(d) Compute the correlation between the first and second features?
+
+
+Please use R package
+(e) Generate 1000 samples from your proposed model in part (a). 
+(f)  Find the sample correlation between the first and the second features. 
+(g)  Compare the sample and model correlation between these two features.
+
+
+Question 2:
+
+Use the following information: 
+n_1=35,x ̅_1=5,s_1=3,n_2=32,x ̅_2=7,s_2=5 
+	Test whether the score variance for the first population is significantly different from that of the second population at the significant level α=0.05, to do so:
+	State null and alternative hypotheses.
+	Compute the test-value. 
+	Find the critical value. 
+	Make your decision and explain the reason. 
+ 
+	 Use the result part (a)  for assumption on variance of two populations, test whether the second population mean is greater the first one at the level α=0.05, to do so state, 
+	The list of assumptions.
+	Null and alternative hypotheses.
+	Compute the test-value. 
+	Find the critical value. 
+	Make your decision and explain the reason. 
+
